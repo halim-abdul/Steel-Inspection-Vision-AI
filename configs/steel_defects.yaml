@@ -1,0 +1,13 @@
+path: data/steel_defects
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: scratch
+  1: crack
+  2: pitting
+  3: inclusion
+  4: scale
+  5: rolled_in_scale
+  6: patch
+  7: crazing
