@@ -1,0 +1,13 @@
+[build-system]
+requires=["setuptools>=69"]
+build-backend="setuptools.build_meta"
+
+[project]
+name="steel-inspection-vision-ai"
+version="0.1.0"
+description="Research platform for steel inspection and predictive maintenance"
+requires-python=">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath=["."]
+testpaths=["tests"]
