@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/
+weights/
+data/raw/
+data/processed/
+*.onnx
+*.engine
+.ipynb_checkpoints/
